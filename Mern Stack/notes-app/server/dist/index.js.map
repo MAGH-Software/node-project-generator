@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.ts"],
+  "sourcesContent": ["let x: number = 5;\n\nx = 10;\n\nx = x * x;"],
+  "mappings": ";AAAA,IAAI,IAAY;AAEhB,IAAI;AAEJ,IAAI,IAAI;",
+  "names": []
+}
